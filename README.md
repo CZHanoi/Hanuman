@@ -80,12 +80,15 @@ hanuman \
 Assuming you have a CSV file named `typhoon202411.csv` and a world map image `world_map.png`, you can generate a video as follows:
 
 ```
-bash
-
-
-复制代码
 hanuman --csv typhoon202411.csv --map world_map.png --output typhoon_season_a13.mp4
 ```
+
+An MP4 file will then be generated using the 2024 Northwest Pacific typhoon season as an example. The final video size is approximately 200 MB and will conclude with a complete path still frame, making it convenient for users to continue editing.
+
+<div style="text-align: center;">
+<img src="https://ice.frostsky.com/2025/01/01/35303b016defa5531415f98e62328deb.png"> <br> 
+<div> <p><small style="color: gray">2024 Typhoon Season Animation <sub>by hanuman</sub></small></p> </div>
+</div> 
 
 ## Dependencies
 
